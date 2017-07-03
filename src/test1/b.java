@@ -6,7 +6,9 @@ public class b {
 		System.out.println("ad;fas");
 		System.out.println("-------");
 		System.out.println("----123---");
-
+System.out.println("ad;fas");
+		System.out.println("-------");
+		System.out.println("----123---");
 	}
 
 }
